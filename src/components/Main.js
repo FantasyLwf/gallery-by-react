@@ -17,15 +17,14 @@ imageDatas=(function genImageURL(imageDatasArr){
 class AppComponent extends React.Component {
     render() {
         return (
-            <div> </div>
-            /*<section className="stage">
+            <section className="stage">
                 <section className="img-sec">
 
                 </section>
-                /*<nav className="controller-nav">
+                <nav className="controller-nav">
 
                 </nav>
-            </section>*/
+            </section>
         );
     }
 }
